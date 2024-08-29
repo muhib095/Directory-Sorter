@@ -4,6 +4,8 @@ Directory Sorter is a simple Python script designed to organize files within a s
 
 The script categorizes files based on their extensions and moves them into corresponding folders within the same directory.
 
+![image](https://github.com/user-attachments/assets/44a78e03-b203-469c-ae85-d2574a603906)
+
 ![image](https://github.com/user-attachments/assets/d8c375ae-e08d-43c9-ac2c-5ed9effcaef6)
 
 ![image](https://github.com/user-attachments/assets/03f8e445-6547-4c18-9832-95f3da849f3d)
