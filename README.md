@@ -42,6 +42,6 @@ The script categorizes files based on their extensions and moves them into corre
 
 ## Links
 
-Contact @ ullah.muhib095@gmail.com
+Contact @ ullah.muhib095@gmail.com / muhib.ullah@torontomu.ca
 
-Linkedin @ https://www.linkedin.com/in/muhib095/
+Linkedin @ https://www.linkedin.com/in/muhib-ullah095/
